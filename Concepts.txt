@@ -1,0 +1,49 @@
+strict mode
+Empty array
+
+Array Methods
+----------------------------------------------------------------
+pop *
+push * 
+shift *
+unshift *
+-------------
+forEach *
+map *
+filter *
+some *
+every *
+
+reduce *
+-------------
+keys, values, entries *
+-------------
+sort *
+reverse *
+-------------
+find
+findLast
+findIndex
+findLastIndex
+indexOf
+lastIndexOf
+-------------
+slice *
+splice *
+-------------
+at *
+concat *
+join *
+-------------
+flat *
+flatMap X
+-------------
+includes *
+isArray *
+-------------
+toReversed 
+toSpliced 
+toSorted 
+
+
+
